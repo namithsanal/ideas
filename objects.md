@@ -1,0 +1,1 @@
+in essence all things are objects, so understanding all things is by understanding objects
