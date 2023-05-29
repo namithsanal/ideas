@@ -1,2 +1,4 @@
-{-,0,+} x {-,0,+}
-{F,T} x {FxT}
+{-,0,+}
+{F,T}
+equivalence
+sets, containment, etc.
